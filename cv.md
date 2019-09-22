@@ -1,12 +1,41 @@
-1. First Name, Last Name (real ones)
-2. Contact Info (add several ways to contact you)
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+Name
+Vital Yurau 
+
+Contacts
+Telegram: [@Vialyur](https://t.me/Vialyur)
+phone: +375(44)77-91-465
+e-mail: vialyur@gmail.com
+adress: 220020, г. Минск, ул. Северозападная, 33-333
+
+Summary
+Purpose:
+Start a career Junior JavaScript Developer;
+Get the necessary additional skills;
+Develop my professional skills and qualities;
+In 4-5 years to become the head of the department.
+
+Skills
+Technical skills
+HTML5;
+CSS3;
+JavaScript
+
+Management skills
+Team Leading
+
+Experience
+Create a website for [coffee shops](http://www.sturbuzz.lisogorsky.ru 'Coffee Shoops Starbuzz') 
+ 
+Education
+Bachelor of Science - Belarusian National Technical University, 2009
+(Faculty of Technology and Technology)
+Codeacademy (Course of HTML&CSS), 2019;
+Htmlacademy (Course HTML&CSS), 2019
+ 
+English level
+B1 (Intermediate)
+
+School of the foreign languages "Step by Step" (2017-2018)
+Training applications for learning foreign languages:
+ Duolingo
+ Lingualeo
