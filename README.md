@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Vialyur.github.io/rsschool-cv/cv
